@@ -9,8 +9,7 @@ const Menu = () => {
         { name: 'Americano', price: '$4.50', image: '/m4.jpeg' },
         { name: 'Mocha', price: '$7.00', image: '/m13.jpeg' },
         { name: 'Macchiato', price: '$6.75', image: '/m6.jpg' },
-        // { name: 'Flat White', price: '$5.50', image: '/m11.jpeg' },
-        // { name: 'Cold Brew', price: '$4.00', image: '/m12.jpeg' },
+        
     ];
 
     return (
