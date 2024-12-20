@@ -7,7 +7,7 @@ const ContactSection = () => {
               <section className="contact-section">
                 <div className="contact-container">
                   <h2>Contact Us</h2>
-                  <p>Have questions or want to reach out? We'd love to hear from you!</p>
+                  <p>Have questions or want to reach out? We would love to hear from you!</p>
                   <form className="contact-form">
                     <div className="form-row">
                       <label htmlFor="fullName">Full Name</label>
